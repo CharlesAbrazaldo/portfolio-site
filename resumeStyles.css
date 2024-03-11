@@ -50,6 +50,7 @@
   background-color: black;
   opacity: 90%;
   background-image: linear-gradient(black, dimgray );
+  
 }
 
 .header-name{
@@ -114,6 +115,26 @@
   border-radius: 10%;
 }
 
+.job1-content {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  width:50%;
+  border-radius: 10%;
+  opacity: 80%;
+  justify-content: center;
+  align-items: center;
+}
+
+.job1-photo {
+  display: flex;
+  flex-direction: column;
+  height:85%;
+  width:85%;
+  background-color: white;
+  border-radius: 50%;
+}
+
 .job2{
   display: flex;
   flex-direction: column;
@@ -121,6 +142,26 @@
   width: 40%;
   background: rgba(0, 0, 0, 0.5);
   border-radius: 10%; 
+}
+
+.job2-content{
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  width:50%;
+  border-radius: 10%;
+  opacity: 80%;
+  justify-content: center;
+  align-items: center;
+}
+
+.job2-photo {
+  display: flex;
+  flex-direction: column;
+  height:85%;
+  width:85%;
+  background-color: white;
+  border-radius: 50%;
 }
 
 .content3-container{
@@ -160,6 +201,26 @@
   border-radius: 10%; 
 }
 
+.job4-container{
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  width:50%;
+  border-radius: 10%;
+  opacity: 80%;
+  justify-content: center;
+  align-items: center;
+}
+
+.job4-photo{
+  display: flex;
+  flex-direction: column;
+  height:85%;
+  width:85%;
+  background-color: white;
+  border-radius: 50%;
+}
+
 .job5{
   display: flex;
   flex-direction: column;
@@ -168,6 +229,26 @@
   background-color: black;
   background: rgba(0, 0, 0, 0.5) ;
   border-radius: 10%;
+}
+
+.job5-container {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  width:50%;
+  border-radius: 10%;
+  opacity: 80%;
+  justify-content: center;
+  align-items: center;
+}
+
+.job5-photo{
+  display: flex;
+  flex-direction: column;
+  height:85%;
+  width:85%;
+  background-color: white;
+  border-radius: 50%;
 }
 
 .footer-container {
